@@ -7,7 +7,7 @@ internal class Program
         SayaTubeVideo video = new SayaTubeVideo("“Tutorial Design By Contract – [Muhammad_Nur_Shodiq]");
         video.PrintVideoDetails();
 
-        for (int i = 1; i <= 216; i++)
+        for (int i = 1; i <= 100; i++)
         {
             video.IncreasePlayCount(10000000);
         }
