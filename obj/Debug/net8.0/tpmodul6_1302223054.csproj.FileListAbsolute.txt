@@ -1,0 +1,15 @@
+C:\Praktikum\KPL\tpmodul6_1302223054\bin\Debug\net8.0\tpmodul6_1302223054.exe
+C:\Praktikum\KPL\tpmodul6_1302223054\bin\Debug\net8.0\tpmodul6_1302223054.deps.json
+C:\Praktikum\KPL\tpmodul6_1302223054\bin\Debug\net8.0\tpmodul6_1302223054.runtimeconfig.json
+C:\Praktikum\KPL\tpmodul6_1302223054\bin\Debug\net8.0\tpmodul6_1302223054.dll
+C:\Praktikum\KPL\tpmodul6_1302223054\bin\Debug\net8.0\tpmodul6_1302223054.pdb
+C:\Praktikum\KPL\tpmodul6_1302223054\obj\Debug\net8.0\tpmodul6_1302223054.GeneratedMSBuildEditorConfig.editorconfig
+C:\Praktikum\KPL\tpmodul6_1302223054\obj\Debug\net8.0\tpmodul6_1302223054.AssemblyInfoInputs.cache
+C:\Praktikum\KPL\tpmodul6_1302223054\obj\Debug\net8.0\tpmodul6_1302223054.AssemblyInfo.cs
+C:\Praktikum\KPL\tpmodul6_1302223054\obj\Debug\net8.0\tpmodul6_1302223054.csproj.CoreCompileInputs.cache
+C:\Praktikum\KPL\tpmodul6_1302223054\obj\Debug\net8.0\tpmodul6_1302223054.sourcelink.json
+C:\Praktikum\KPL\tpmodul6_1302223054\obj\Debug\net8.0\tpmodul6_1302223054.dll
+C:\Praktikum\KPL\tpmodul6_1302223054\obj\Debug\net8.0\refint\tpmodul6_1302223054.dll
+C:\Praktikum\KPL\tpmodul6_1302223054\obj\Debug\net8.0\tpmodul6_1302223054.pdb
+C:\Praktikum\KPL\tpmodul6_1302223054\obj\Debug\net8.0\tpmodul6_1302223054.genruntimeconfig.cache
+C:\Praktikum\KPL\tpmodul6_1302223054\obj\Debug\net8.0\ref\tpmodul6_1302223054.dll
